@@ -1,4 +1,4 @@
-# go-internals
+# Go Internals
 
 `go-internals` is a work-in-progress book about the internals of the Go \(1.10+\) programming language.
 
